@@ -1,8 +1,8 @@
 import React from 'react'
-function OpenAccount
-() {
-    return (   <h1>Open Account </h1> );
-}
 
-export default OpenAccount
-;
+export const OpenAccount = () => {
+  return (
+    <div>OpenAccount</div>
+  )
+}
+export default OpenAccount;

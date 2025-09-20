@@ -1,8 +1,10 @@
-import React from 'react'
-function Navbar
-() {
-    return ( <h1>Navbar</h1> );
-}
+import React from 'react';
+import {Link} from 'react-router-dom';
 
-export default Navbar
-;
+function Navbar() {
+    return (
+        <h1>bye</h1>
+    )
+};
+
+export default Navbar;

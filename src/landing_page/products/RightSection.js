@@ -1,6 +1,9 @@
-import React from 'react'
-function RightSection() {
-    return ( <h1>Products Right Section</h1> );
+import React from 'react';
+
+function RightSection({productName, productDesc, learnMore, imageURL}) {
+    return ( 
+        <h1></h1>
+    );
 }
 
 export default RightSection;
