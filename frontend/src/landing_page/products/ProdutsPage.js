@@ -6,7 +6,12 @@ import Universe from './Universe';
 
 function ProductsPage() {
     return (  
-       <h1></h1>
+      <>
+        <Hero/>
+        <LeftSection/>
+        <RightSection/>
+        <Universe/>
+      </>
     );
 }
 
